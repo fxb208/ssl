@@ -1,4 +1,4 @@
-package com.example.ssh;
+package com.example.ssl;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

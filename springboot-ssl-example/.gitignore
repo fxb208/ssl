@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### pem ###
-.pem
+*.pem
