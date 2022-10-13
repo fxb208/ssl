@@ -1,5 +1,6 @@
 # ssl
 1 How to enable HTTPS in a Spring Boot Java application
+
 1), Springboot Configure SSL
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#howto.webserver.configure-ssl
 
